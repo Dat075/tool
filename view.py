@@ -1,5 +1,331 @@
-#Youtube: youtube.com/lequanggminhhofficial
-#Encode Python Anti Decode
-#Date Time Encode: Fri Sep  2 19:57:54 2022
-#Donate MB Bank: 1908888888889
-minh = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((minh)(b'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'))
+from os import get_terminal_size, system as sys, name as os_name
+from re import findall
+from io import BytesIO
+from time import sleep
+from base64 import b64decode, b64encode
+from random import choices, choice, uniform
+from string import ascii_letters, digits
+from requests import post, get, Session
+from datetime import datetime
+from urllib.parse import unquote
+from threading import Thread
+from curl_cffi.requests import Session
+
+#from tls_client import Session
+
+
+
+class Zefoy:
+    def __init__(self) -> None:
+        self.banner = ['8', '.d8b.', '_.d8888888b._', '.88888888888888b.', 'd88888888888888888b', '8888888888888888888', 'Y88888888888888888P', "'Y8888888888888P'", "_..._ 'Y88888P' _..._", '.d88888b. Y888P .d88888b.', 'd888888888b 888 d88888888b', "888P  `Y8888888888P'  Y888", 'b8b    Y88888888P    d8Y', '`"\'  #############  \'"`', 'dP d8b Yb', 'Ob=dP d888b Yb=dO', '`"` O88888O `"`', "'Y8P'", "'"]
+
+        self.config = {
+            'mode'  : None,
+            'size': get_terminal_size().columns,
+            'url'   : None, 
+            'video_url': None
+            }
+
+        self.keys = {
+            'key_1': None,
+            'key_2': None,
+            'id'   : None  
+        }
+
+        self.endpoints: dict[str] = {}
+        self.threads: list[Thread] = []
+
+    def title(self, content: str) -> None:
+        sys(f'title {content}' if os_name == 'nt' else '')
+
+    def clear(self) -> None:
+        sys('cls' if os_name == 'nt' else 'clear')
+        
+    def hide_cursor(self) -> None:
+        print('\033[?25l', end='')
+
+    def get_user_agent(self) -> str:
+        return findall(r'<div class="copy" data-copy="(.*)">', get('https://iplogger.org/useragents/?device=random&count=100').text)
+
+    def title_info(self, video_id: str) -> None:
+        headers = {
+            'host': 'tikstats.io',
+            'user-agent': choice(self.get_user_agent()),
+        }
+        while True:
+            try: 
+                res = get(f'https://tikstats.io/video/{video_id}', headers=headers)
+                input(findall(r'.innerText = "(.*)"', res))
+                if res.status_code == 200:
+                    self.titlle(f'Zefoy + API MAX SPEED ~ [Views: {res.json()["viewCount"]} Shares: {res.json()["shareCount"]} Likes: {res.json()["likeCount"]}] [tunzxje]')
+            except: 
+                continue
+
+            sleep(1)
+        
+    def _print(self, thing: str, content: str, new_line: bool = False, input: bool = False) -> None or str:
+        
+        self.hide_cursor()
+        
+        col = "\033[38;2;225;-;255m"
+        first_part = f"[{thing}] | [{datetime.now().strftime('%H:%M:%S')}] {content}"
+        new_part = ""
+        
+        counter = 0
+        for caracter in first_part:
+            new_part += col.replace('-', str(225 - counter * int(255/len(first_part)))) + caracter
+            counter += 1 
+            
+        if input:
+            return f"{new_part}"
+            
+        if not new_line:
+            print(f"{new_part}{' '*(self.config['size'] - len(first_part))}\033[38;2;255;255;255m", end="\r")
+
+        else:
+            print(f"{new_part}{' '*(self.config['size'] - len(first_part))}\033[38;2;255;255;255m")
+            
+    def display(self, banner_to_display: list) -> str:
+        
+        color = "\033[38;2;225;-;255m"
+            
+        new_banner = ""
+        counter = 0
+        for line in self.banner:
+            new_banner += color.replace('-', str(counter * int(255 / len(banner_to_display)))) + ' ' * int((self.config['size'] - len(line))/2) + line + "\033[38;2;255;255;255m\n"
+            counter += 1
+
+        return new_banner
+
+
+    def wait(self, time: int) -> None:
+        for time_spent in range(time):
+            sleep(1)
+            self._print('/', f'Remaining Time: {time - (time_spent + 1)}')
+        self._print('!', f'Sending {self.config["mode"]}')
+
+    def decode(self, text: str) -> str: # from tekky
+        return b64decode(unquote(text[::-1])).decode()
+
+    def get_random_url(self) -> None:
+        start = "https://www.tiktok.com/@"
+        done = False
+        
+        while not done:
+            try:
+                self.config['url'] = choice([start + _url for _url in findall(r'<a href="'+ start + r'(.*?)"', get('https://www.tiktok.com/explore').text)])
+                done = True
+            except:
+                continue
+
+    def get_id(self, url: str) -> str:
+        try: self.keys['id'] =  int(findall(r'/video/(.*)', url)[0])
+        except: self.keys['id'] =  int(str(findall(r'/video/(.*)', url)[0]).split('?')[0])
+
+        thread = Thread(target=self.title_info, args= (str(self.keys['id']),),  name="title_info")
+        thread.start()
+        self.threads.append(thread)
+        
+        
+    def keep_thread_alive(self) -> None:
+        
+        dict_args = {
+            'title_info' : (str(self.keys['id']),),
+            'get_id': self.config['video_url']
+        }
+        
+        while True:
+            for thread in self.threads:
+                if not thread.is_alive():
+                    self.threads.remove(thread)
+                    new_thread = Thread(target= eval(thread.name), args=(dict_args[thread.name],), name= thread.name); new_thread.start()
+                    self.threads.append(new_thread)
+                                
+    def solve(self, session: Session) -> None:
+        input_choice = {}
+
+        solved = False  
+
+        while not solved:
+            source_code = str(session.get('https://zefoy.com').text).replace('&amp;', '&')
+            captcha_token = findall(r'<input type="hidden" name="(.*)">', source_code)
+
+            if 'token' in captcha_token:
+                captcha_token.remove('token')
+                
+            try:
+                captcha_url    = findall(r'img src="([^"]*)"', source_code)[0]
+            except:
+                input(self._print('!', 'Zefoy may have blocked you or you have a vpn/adblock enabled', input=True))
+                exit()
+
+            token_answer = findall(r'type="text" name="(.*)" oninput="this.value', source_code)[0]
+            encoded_image = b64encode(BytesIO(session.get('https://zefoy.com' + captcha_url).content).read()).decode('utf-8')
+            captcha_answer = post(f"https://platipus9999.pythonanywhere.com/", json={'image': encoded_image}).text
+            
+            sleep(uniform(1, 2))
+
+            data = {
+                token_answer: captcha_answer,
+            }
+
+            for values in captcha_token:
+                token, value = values.split('" value="')
+                data[token] = value
+            else:
+                data['token'] = ''
+
+            response = session.post('https://zefoy.com', data = data).text
+            try:
+                self.keys['key_1'] = findall(r'remove-spaces" name="(.*)" placeholder', response)[0]
+                
+                all_endpoints = findall(r'<h5 class="card-title mb-3"> (.*)</h5>\n<form action="(.*)">', response)
+                valid_endpoints = findall(r'<button class="btn btn-primary rounded-0 t-(.*)-button">', response)
+                
+                if 'chearts' in valid_endpoints:
+                    valid_endpoints[valid_endpoints.index('chearts')] = 'comments hearts'
+                
+                if not self.config['mode']:
+                    counter = 0
+                    print('')
+                    for key, value in all_endpoints:
+                        if 'Live' in key: key = 'Livestream'
+                        if key.lower() in valid_endpoints:
+                            counter += 1
+                            self._print(f'{counter}', key.title(), True)
+                            self.endpoints[key.title()] = value
+                            input_choice[counter] = key
+                    
+                    self.config['mode'] = input_choice[int(input("\n" + self._print('?', 'Choice Your Method > ', input= True)))]
+                
+                solved = True
+                self.clear()
+                self._print('!', f'Captcha Solved as {captcha_answer}', True)
+                
+            except:
+                continue
+
+    def search(self, session: Session, remaining_time: bool or int = False) -> str:
+
+        self.get_random_url()
+
+        dict_res = {
+            'Too many requests': "self._print('!','Too many requests'):self.wait(int(findall(r'var ltm=(.*);', response)[0]))",
+            'Please try again later. Server too busy.': "input(self._print('/', 'Server Too Busy Try Later', input= True))",
+            'Checking Timer...': "self.wait(int(findall(r'ltm=(.*);', response)[0]))"
+        }
+
+        if not remaining_time:
+            rand_token = ''.join(choices(ascii_letters + digits, k=16))
+            data = f'------WebKitFormBoundary{rand_token}\r\nContent-Disposition: form-data; name="{self.keys["key_1"]}"\r\n\r\n{self.config["url"]}\r\n------WebKitFormBoundary{rand_token}--\r\n'
+            headers = {
+                'authority': 'zefoy.com',
+                'accept': '*/*',
+                'accept-language': 'fr-FR,fr;q=0.8',
+                'content-type': 'multipart/form-data; boundary=----WebKitFormBoundary{}'.format(rand_token),
+                'host': 'zefoy.com',
+                'origin': 'https://zefoy.com',
+                'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"',
+                'sec-ch-ua-mobile': '?0',
+                'sec-ch-ua-platform': '"Windows"',
+                'sec-fetch-dest': 'empty',
+                'sec-fetch-mode': 'cors',
+                'sec-fetch-site': 'same-origin',
+                'user-agent': choice(self.get_user_agent()),
+                'x-requested-with': 'XMLHttpRequest',
+            }
+
+            sleep(1)
+            response = self.decode(session.post(f'https://zefoy.com/{self.endpoints[self.config["mode"]]}', headers= headers, data= data).text)
+            try:
+                self.keys['key_2'] = findall(r'<input type="hidden" name="(.*)">', response)[0].split('" value="')[0]
+            except:
+
+                if 'Session expired' in response:
+                    self._print('!', 'Session expired')
+                    raise Exception
+                
+                for expected_response, to_do in dict_res.items():
+                    if expected_response in response:
+                        for thing in to_do.split(':'):
+                            eval(thing)
+
+        else:
+            raise Exception
+        
+        
+        sleep(uniform(1, 2)) 
+        self.send(session)
+
+    def send(self, session: Session) -> None:
+        rand_token = ''.join(choices(ascii_letters + digits, k=16))
+        data  = f'------WebKitFormBoundary{rand_token}\r\nContent-Disposition: form-data; name="{self.keys["key_2"]}"\r\n\r\n{self.keys["id"]}\r\n------WebKitFormBoundary{rand_token}--\r\n'
+
+        headers = {
+            'authority': 'zefoy.com',
+            'accept': '*/*',
+            'accept-language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
+            'cache-control': 'no-cache',
+            'content-type': f'multipart/form-data; boundary=----WebKitFormBoundary{rand_token}',
+            'origin': 'https://zefoy.com',
+            'pragma': 'no-cache',
+            'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"macOS"',
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'user-agent': choice(self.get_user_agent()),
+            'x-requested-with': 'XMLHttpRequest'
+            }
+        
+        sleep(uniform(1, 2))     
+        response = self.decode(session.post('https://zefoy.com/{}'.format(self.endpoints[self.config['mode']]), headers= headers, data= data).text)
+        
+        if 'Successfully' and 'sent' in response:
+            self._print("!", f"{self.config['mode']} Sent", True)
+
+        elif 'Session expired' in response:
+            self._print('!', 'Session expired')
+            sleep(2)
+            raise Exception
+
+        else:
+            try:
+                remaining_time = int(findall(r'var ltm=(.*);', response)[0])
+                self.search(session, remaining_time)
+            except:
+                self.search(session)
+                
+    def repeat_task(self, session: Session) -> None:
+        self.solve(session)
+        sleep(1)
+        while True: 
+            try: self.search(session)
+            except: break    
+
+    def start(self) -> None:  
+        self.title(f'Tiktok Bot ~ [Tunzxje] ~ [zefoy.com] + [API max speed]') 
+    
+        self.clear()
+        print(self.display(self.banner))
+        
+        self.config['video_url'] = input(self._print('?', "Video Url > ", input = True))
+        
+        Thread(target=self.get_id, args=(self.config['video_url'],),  name="get_id").start()
+        
+        while True:
+            with  Session() as sess:
+                sess.headers = {        
+                    'authority'             : 'zefoy.com',
+                    'origin'                : 'https://zefoy.com',
+                    'authority'             : 'zefoy.com',
+                    'cp-extension-installed': 'Yes',
+                    'user-agent'            : choice(self.get_user_agent()),
+                    }
+                self.repeat_task(sess)
+
+
+
+if __name__ == '__main__':
+    Zefoy().start()
